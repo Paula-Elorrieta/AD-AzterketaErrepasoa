@@ -1,0 +1,24 @@
+Perro 1:
+Color: Marrón
+Raza: Carlino
+Enfermo: No
+Edad: 3 años
+*****
+Perro 2:
+Color: Negro
+Raza: Labrador
+Enfermo: Sí
+Edad: 5 años
+*****
+Perro 3:
+Color: Blanco
+Raza: Bichón Maltés
+Enfermo: No
+Edad: 2 años
+*****
+Perro 4:
+Color: Blanco
+Raza: Mastin
+Enfermo: No
+Edad: 11 años
+*****

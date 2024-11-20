@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><biblioteca>
+    <informacion>
+        <nombre>Gran Biblioteca</nombre>
+        <ubicacion>Centro de la ciudad</ubicacion>
+        <anioFundacion>1950</anioFundacion>
+    </informacion>
+    <libros>
+        <libro disponible="true" id="1">
+            <titulo>La Gran Aventura</titulo>
+            <autor>
+                <nombre>Juan Pérez</nombre>
+                <anioNacimiento>1975</anioNacimiento>
+                <nacionalidad>Estadounidense</nacionalidad>
+            </autor>
+            <generos>
+                <genero>Aventura</genero>
+                <genero>Fantasía</genero>
+            </generos>
+            <anioPublicacion>2001</anioPublicacion>
+        </libro>
+        <libro disponible="false" id="2">
+            <titulo>Entendiendo XML</titulo>
+            <autor>
+                <nombre>María Gómez</nombre>
+                <anioNacimiento>1980</anioNacimiento>
+                <nacionalidad>Británica</nacionalidad>
+            </autor>
+            <generos>
+                <genero>Tecnología</genero>
+                <genero>Educación</genero>
+            </generos>
+            <anioPublicacion>2015</anioPublicacion>
+        </libro>
+        <libro disponible="true" id="3">
+            <titulo>La Historia Desplegada</titulo>
+            <autor>
+                <nombre>Alan Turing</nombre>
+                <anioNacimiento>1912</anioNacimiento>
+                <nacionalidad>Británica</nacionalidad>
+            </autor>
+            <generos>
+                <genero>Historia</genero>
+            </generos>
+            <anioPublicacion>1999</anioPublicacion>
+        </libro>
+<libro disponible="true" id="5"><titulo>El señor de los anillos</titulo><autor><nombre>J.R.R. Tolkien</nombre><anioNacimiento>1892</anioNacimiento><nacionalidad>Reino Unido</nacionalidad></autor><anioPublicacion>2001</anioPublicacion></libro></libros>
+    <personal>
+        <miembro id="P1" rol="bibliotecario">
+            <nombre>Clara Sánchez</nombre>
+            <anioContratacion>2010</anioContratacion>
+        </miembro>
+        <miembro id="P2" rol="asistente">
+            <nombre>Miguel Fernández</nombre>
+            <anioContratacion>2015</anioContratacion>
+        </miembro>
+    </personal>
+</biblioteca>
